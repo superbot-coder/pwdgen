@@ -104,6 +104,7 @@ begin
   end;
 
   mm.Lines.EndUpdate;
+  ST.free;
 
 end;
 
